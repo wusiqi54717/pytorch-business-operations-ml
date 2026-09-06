@@ -20,7 +20,7 @@ Both models used the same train-test split and the same preprocessed input featu
 | PyTorch Neural Network | 83.21% | 92.39% | 47.64% | 84.55% | 60.94% |
 | Decision Tree | 86.13% | 92.98% | 53.29% | 84.82% | 65.45% |
 
-## Interview-Ready Explanation
+## Explanation
 
 In this project, I upgraded a traditional decision tree classification workflow into a neural network-based machine learning pipeline using Python and PyTorch. I first inspected the raw dataset, identified `Revenue` as the binary target variable, encoded categorical variables, standardized numerical features, and split the data into training and test sets.
 
@@ -30,7 +30,7 @@ Because the positive Revenue class is much smaller than the non-Revenue class, I
 
 In this experiment, the Decision Tree achieved the strongest ROC-AUC, and the Decision Tree achieved the strongest Revenue F1-score. The comparison shows that neural networks can learn meaningful behavioral patterns from structured business data, while decision trees remain a strong and interpretable baseline.
 
-## Explanation
+## 中文Explanation
 
 原来只是在R里用 decision tree 做分类预测，现在升级成了一个更完整的 Python + PyTorch 机器学习项目。不是只换了一个模型，而是完成了从原始数据检查、变量处理、训练测试集切分、神经网络训练，到和传统模型比较的完整流程。
 
