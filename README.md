@@ -17,7 +17,7 @@
 .\.venv312\Scripts\python.exe
 ```
 
-这个环境来自 Anaconda 的 Python 3.12.7。我们没有继续使用系统 Python 3.13.0，因为第一次安装后 PyTorch 在 Windows 上加载 DLL 失败。对初学项目来说，选择更稳定的 Python 版本更重要。
+这个环境来自 Anaconda 的 Python 3.12.7。
 
 ## VS Code 里应该怎么选解释器
 
