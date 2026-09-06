@@ -8,7 +8,6 @@
 2. 数据预处理
 3. PyTorch neural network 训练
 4. Decision tree baseline 对比
-5. 自动生成简历/面试 summary
 
 ## 已配置的 Python 环境
 
